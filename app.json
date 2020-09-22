@@ -1,0 +1,12 @@
+{
+  "name": "chartApp",
+  "displayName": "chartApp",
+  "expo": {
+    "name": "chartApp",
+    "slug": "chartApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
